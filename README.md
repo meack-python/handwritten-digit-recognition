@@ -3,6 +3,7 @@
 ## Deployed Link
 [![GitHub](https://img.shields.io/badge/Github-Repository-blue?style=flat-square&logo=github)](https://github.com/nabdeep-patel)  <a href="[https://colab.research.google.com/github/nabdeep-patel/handwritten-digit-recognition/blob/main/Handwritten_Digit_Classification.ipynb]([https://drive.google.com/file/d/1NMB8nkoAxM-wnV9gCdC12JyrscHml3vv/view?usp=sharing](https://drive.google.com/file/d/1NMB8nkoAxM-wnV9gCdC12JyrscHml3vv/view?usp=sharing))"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
+Streamlit: [https://handwritten-digit-recognition-meack.streamlit.app/](https://handwritten-digit-recognition-meack.streamlit.app/)
 
 Colab: [https://drive.google.com/file/d/1NMB8nkoAxM-wnV9gCdC12JyrscHml3vv/view?usp=sharing](https://colab.research.google.com/drive/1NMB8nkoAxM-wnV9gCdC12JyrscHml3vv)
 
