@@ -7,3 +7,4 @@ tensorflow
 matplotlib
 streamlit-drawable-canvas
 gdown
+Pillow
